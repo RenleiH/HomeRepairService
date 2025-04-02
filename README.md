@@ -36,13 +36,6 @@ npm start
 
 The application will open in your default browser at http://localhost:3000
 
-### Building for Production
-
-To create a production build:
-```bash
-npm run build
-```
-
 ## Technologies Used
 
 - React

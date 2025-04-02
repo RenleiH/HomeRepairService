@@ -14,13 +14,13 @@ const HeroSection = () => {
           to="/homeowner"
           className="bg-blue-600 text-white py-2 px-4 rounded hover:bg-blue-700"
         >
-          For Home Owners
+          For Home Owner
         </Link>
         <Link
           to="/service-provider"
           className="bg-green-600 text-white py-2 px-4 rounded hover:bg-green-700"
         >
-          For Service Providers
+          For Service Provider
         </Link>
       </div>
     </section>

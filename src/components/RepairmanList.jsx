@@ -3,7 +3,7 @@ import React from 'react';
 const RepairmanList = ({ onBookRepairman }) => {
   return (
     <div className="mt-6">
-      <h3 className="text-xl font-bold mb-4">Available Repairmen</h3>
+      <h3 className="text-xl font-bold mb-4">Available Service</h3>
       <ul className="space-y-4">
         <li className="flex justify-between items-center p-4 bg-gray-50 rounded">
           <span>John Doe - Rating: 4.5/5, Price: $100</span>
